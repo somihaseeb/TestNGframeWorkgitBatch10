@@ -1,0 +1,30 @@
+recap;
+What is FrameWork?
+set of tool. structure and rules to follow
+It gives us organized folder structure/ set of rules to follow while writing the code.
+
+Benefits;
+--it increases code reuse-ability, readability, easy to maintain
+--reus-ability, maintainability,skeleton, reporting, data-driven approach
+to standardize our code
+efficiency
+--script-less representation
+
+Maven;
+-it isa build automation tool(completely ready-made structure to allows us to (Build) start the project.)
+
+
+(POM.xml has all the files as dependencies which allows sharing it in various users)
+
+Page object model application(POM)
+create separate pages for login, webelements ets
+
+Test case--
+--user story -12345- user shou;d ne ab;e to login via valid credentials
+
+test case 2;
+US- 87978 - Admin user should be able to add an employee to the hrms application
+
+
+
+
